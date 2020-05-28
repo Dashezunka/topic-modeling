@@ -1,0 +1,11 @@
+beautifulsoup4==4.8.2
+newspaper3k==0.2.2
+nltk==3.4.5
+numpy==1.18.2
+pygtrie==2.3.3
+regex==2020.2.20
+requests==2.23.0
+requests-file==1.4.3
+scipy==1.4.1
+stringcase==1.2.0
+urllib3==1.25.8
